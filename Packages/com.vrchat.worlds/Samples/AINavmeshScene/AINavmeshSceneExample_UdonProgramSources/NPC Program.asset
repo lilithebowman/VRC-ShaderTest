@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f11136daadff0b44ac2278a314682ab, type: 3}
   m_Name: NPC Program
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 3f22762315d1ff241a558b08a8bc738f,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 6ac4a8f8f8762e24cac32a8897a8dbe2,
     type: 2}
   udonAssembly: ".data_start\r\n\r\n    .export agent\r\n    .export destination\r\n   
     \r\n    __instance_0: %UnityEngineTransform, this\r\n    __instance_1: %VRCUdonUdonBehaviour,
